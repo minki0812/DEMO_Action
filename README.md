@@ -1,3 +1,11 @@
+**타이틀** : **DEMO Action**
+
+**장르** : 3D액션
+
+**플렛폼** : PC
+
+**타겟 플레이어** : 전연령
+
 **게임 정보**
 
 1. **Enemy**
@@ -35,6 +43,7 @@
 **Asset**
 
 [Toony Tiny City Demo](https://assetstore.unity.com/packages/3d/environments/urban/toony-tiny-city-demo-176087)
+![KakaoTalk_20201109_231850022](https://user-images.githubusercontent.com/63339302/99817736-a779e280-2b90-11eb-9732-447a3768596a.jpg)
 
 [Toony Tiny People Demo](https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188)
 
