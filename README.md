@@ -46,6 +46,7 @@
 ![KakaoTalk_20201109_231850022](https://user-images.githubusercontent.com/63339302/99817736-a779e280-2b90-11eb-9732-447a3768596a.jpg)
 
 [Toony Tiny People Demo](https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188)
+![KakaoTalk_20201109_232215711](https://user-images.githubusercontent.com/63339302/99818032-0d666a00-2b91-11eb-8e23-9ec105cbfbcb.jpg)
 
 [Cartoon FX Free](https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565)
 
