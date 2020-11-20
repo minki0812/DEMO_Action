@@ -266,8 +266,8 @@ public class Enemy : MonoBehaviour
             foreach (MeshRenderer mesh in meshs)
                 mesh.material.color = Color.gray;
 
-            gameObject.layer = 14;
             isDead = true;
+            gameObject.layer = 14;
             dieSound.Play();
             isChase = false;
             isBoss = false;
