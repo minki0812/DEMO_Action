@@ -40,6 +40,10 @@
 
 [Cartoon FX Free](https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565)
 
+[Meshtint Free Polygonal Metalon](https://assetstore.unity.com/packages/3d/characters/creatures/meshtint-free-polygonal-metalon-151383)
+
+[Skeleton Outlaw](https://assetstore.unity.com/packages/3d/characters/skeleton-outlaw-130946)
+
 ---
 ***
 ---
